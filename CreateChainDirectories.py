@@ -43,3 +43,6 @@ while (i <= chain_number) and (i <= length):
     i+= 1
 
 ### End of While loop ###
+
+print(str(chain_number) + " directories created.")
+input("Press any key to exit.")
